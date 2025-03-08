@@ -9,10 +9,10 @@ AdvancedToDoList to zaawansowana aplikacja do zarządzania zadaniami, która umo
 - Przechowywanie danych w lokalnej pamięci przeglądarki.
 
 ## Jak korzystać:
-1. **Tworzenie listy**: Kliknij przycisk "Dodaj listę", aby stworzyć nową listę zadań.
+1. **Tworzenie listy**: Kliknij przycisk "Plusa", aby stworzyć nową listę zadań.
 2. **Dodawanie zadań**: Kliknij na wybraną listę, a następnie dodaj zadanie za pomocą formularza.
 3. **Odznaczanie zadań**: Kliknij pole wyboru obok zadania, aby oznaczyć je jako ukończone lub ponownie jako do zrobienia.
-4. **Usuwanie zadań**: Kliknij na ikonę kosza obok zadania, aby je usunąć.
+4. **Usuwanie zadań**: Kliknij przycisk "Usuń" pod listą, aby usunąć zadania.
 
 ## Link do aplikacji:
 Stwórz własne listy: [AdvancedToDoList](https://Drewniak1015.github.io/AdvancedToDoList/)
