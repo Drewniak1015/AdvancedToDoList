@@ -15,8 +15,7 @@ AdvancedToDoList to zaawansowana aplikacja do zarządzania zadaniami, która umo
 4. **Usuwanie zadań**: Kliknij na ikonę kosza obok zadania, aby je usunąć.
 
 ## Link do aplikacji:
-Zagraj w aplikację online: [AdvancedToDoList](https://twoja-nazwa-uzytkownika.github.io/AdvancedToDoList/)
-
+Stwórz własne listy: [AdvancedToDoList](https://Drewniak1015.github.io/AdvancedToDoList/)
 ## Instalacja:
 1. Sklonuj repozytorium:
    ```bash
