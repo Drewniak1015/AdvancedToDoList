@@ -20,3 +20,9 @@ Stwórz własne listy: [AdvancedToDoList](https://Drewniak1015.github.io/Advance
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/Drewniak1015/AdvancedToDoList.git
+
+2.Przejdź do folderu z projektem: cd flashcards
+
+3.Zainstaluj zależności: npm install
+
+4.Uruchom aplikację lokalnie: npm start
